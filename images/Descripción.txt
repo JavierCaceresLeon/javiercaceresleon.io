@@ -1,0 +1,6 @@
+Esta carpeta posee Imágenes, favicons y iconos ocupados en la página.
+
+Los iconos están en formato SVG, ya que es un tipo de archivo de gráficos vectoriales en dos
+dimensiones, tanto estáticos como animados, en formato XML. Boxicons.como
+
+Las imágenes de unsplash.como
